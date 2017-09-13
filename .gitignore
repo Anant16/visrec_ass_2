@@ -1,0 +1,4 @@
+VOCdevkit_test
+VOCdevkit_train
+__pycache__
+*.tar
